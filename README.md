@@ -1,1 +1,1 @@
-## WemosD1 HomeMaticr IR Receiver
+## WemosD1 HomeMatic IR Receiver

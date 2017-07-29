@@ -5,6 +5,9 @@
 Programmbeispiel:
 Schalten eines Aktors
 
+![programmbeispiel](Images/programmbeispiel.png)
+
+
 Variablenname = Name der Variable für IR-Codes
 
 FF1122334455 = empfangener IR-Code

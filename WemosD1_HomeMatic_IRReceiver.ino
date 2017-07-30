@@ -37,7 +37,7 @@ void setup() {
   digitalWrite(D8, LOW);
   Serial.begin(115200);
 
-  pinMode(TasterPin,    INPUT_PULLUP);
+  pinMode(TasterPin, INPUT_PULLUP);
 
   if (digitalRead(TasterPin) == LOW) {
     startWifiManager = true;
